@@ -1,0 +1,34 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "..\\sscglib_2010\\sscg_comm.pbl" "";
+@end;
+@begin Objects
+ "..\\sscglib_2010\\w_version_updates.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\n_ras_32.sru" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\n_ras_16.sru" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\run_file.srf" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\uo_files.sru" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_html.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\uo_big_calendar.sru" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_ole_object.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\uo_document_list.sru" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_document_list.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_documents.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\n_ftp.sru" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_ftp_host.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\new_ftp.sru" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_web_suggest.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_ftp_download.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_ftp_screen.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\x_ftp.sru" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\menu_communications.srm" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\menu_mailsession.srm" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_communications.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_setup_pdf.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\print_rtf2.srf" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\mail_outlook.srf" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_mailsession.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\timeout.srf" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_ftp_upload.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+ "..\\sscglib_2010\\w_importfile.srw" "..\\sscglib_2010\\sscg_comm.pbl";
+@end;

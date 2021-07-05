@@ -1,0 +1,8 @@
+HA$PBExportHeader$st_profile.srs
+global type st_profile from structure
+	string		ss_host
+	string		ss_dbase
+	string		ss_user
+	string		ss_password
+end type
+
